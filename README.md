@@ -1,5 +1,5 @@
 # Speed-Click
-- C'est un petit jeu, fait avec Python et Tkinter, le code du jeu que je vais mettre sera sans aucune musique car le fichier .mp3 ne passe pas.
+- C'est un petit jeu, fait avec Python et Tkinter, le code du jeu sera sans aucune musique car le fichier .mp3 ne passe pas.
 ## 🛠️ Langage
 - Python.
 ## 📄 Licence
