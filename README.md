@@ -1,5 +1,7 @@
 # Speed-Click
 - C'est un petit jeu, fait avec Python et Tkinter.
+## 🎮 Télécharger et jouer
+- Télécharge `Speed_Click.exe` et lance-le directement !
 ## 🛠️ Langage
 - Python.
 ## 📄 Licence
